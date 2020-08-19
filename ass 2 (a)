@@ -6,6 +6,7 @@ void quicksort(int [10],int,int);
 void main()
 {
 int a[10],i,n,x;
+printf("Amaan Ali Khan\n181112011");
 printf("Enter the no of element:");
 scanf("%d",&n);
 
