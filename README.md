@@ -1,4 +1,5 @@
 # Operating-System-Lab
+
 Assignment 1 :
 a) Write a multithreaded program that generates the Fibonacci series. This program should work as follows: The user will enter on the command line the number of 
 Fibonacci numbers that the program is to generate. The program will then create a separate thread that will generate the Fibonacci numbers. When the thread finishes 
@@ -12,3 +13,12 @@ Assignment 2 :
 a) Implement the C program in which main program accepts the integers to be sorted Main program uses the fork system call to create a new process called a child process. Parent process sorts the integers using merge sort and waits for child process using wait system call to sort the integers using quick sort. Also demonstrate zombie and orphan states.
 
 b) Construct the complete binary tree using fork() system call and return the height of tree.
+
+Assignment 3 :
+
+Create the C Code/ Java for following program: 
+a) "An orphan process is a computer process whose parent process has finished or terminated, though it remains running itself." Write a C program for orphan process using the fork() system call. 
+
+b) A zombie process or defunct process is a process that has completed execution but still has an entry in the process table. Write a C program to create the Zombie process.
+
+c):  Create a multi-process  program with one parent and 3 children. Implement the cascade execution order of process with ID and Name.  
