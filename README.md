@@ -21,7 +21,15 @@ a) "An orphan process is a computer process whose parent process has finished or
 
 b) A zombie process or defunct process is a process that has completed execution but still has an entry in the process table. Write a C program to create the Zombie process.
 
-c) Create a multi-process  program with one parent and 3 children. Implement the cascade execution order of process with ID and Name.  
+c) Create a multi-process  program with one parent and 3 children. Implement the cascade execution order of process with ID and Name. 
+
+Assignment 4 :
+
+a)Linear regression on iris dataset or any other dataset .
+
+b)Nonlinear regression on iris dataset or any other dataset .
+
+c)Logistic regression using iris dataset or any other dataset .
 
 Assignment 5 :
 
