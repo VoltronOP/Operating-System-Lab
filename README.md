@@ -44,3 +44,9 @@ a)ImplementBinaryandcountingsemaphore.
 b)ImplementPeterson’sAlgorithminProcessSynchronizationusingmultiprocessorfork()systemcall.
 
 c)Demonstratetheraceconditionusingfork()systemcall.
+
+Assignment 7 :
+
+a)Write the code for producer and consumer classical process syncronization .
+
+b)Write a code for reader and writter classical process synchronization . 
