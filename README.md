@@ -56,3 +56,6 @@ Assignment 9 :
 a)Implement dining philosofers problem using semaphore.
 
 b)Implement dining philosofers problem using monitor.
+
+Assignment 10 :
+a)Implement bankers algorithm for deadlock avoidance in c .
