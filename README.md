@@ -51,11 +51,16 @@ a)Write the code for producer and consumer classical process syncronization .
 
 b)Write a code for reader and writter classical process synchronization . 
 
-Assignment 9 :
+Assignment 8 :
 
 a)Implement dining philosofers problem using semaphore.
 
 b)Implement dining philosofers problem using monitor.
 
-Assignment 10 :
+Assignment 9:
+
 a)Implement bankers algorithm for deadlock avoidance in c .
+
+Assignment 10:
+
+a)Write a program for FCFS,SJF,priority,round robin CPU schedulling .
